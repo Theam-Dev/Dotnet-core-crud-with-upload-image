@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotnetCoreCrudImage.props" />
+</Project>
